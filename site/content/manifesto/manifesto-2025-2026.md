@@ -85,9 +85,11 @@ We want to create a sense of pride and belonging among our members, and we also 
 
 We also made our CFP policy public, with a nice [/firesides](/firesides) page where you can submit your own fireside talk proposals. We encourage every one of our members to share their knowledge and experiences with the community, and we are always looking for interesting topics and speakers for our 
 firesides.
-    
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=cz9FMTHlTw2c3Gfu&amp;list=PLng5Ux0x6jU_eaP4mO6vFDwaaqgwpb2Lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<div class="video-container">
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/videoseries?si=cz9FMTHlTw2c3Gfu&amp;list=PLng5Ux0x6jU_eaP4mO6vFDwaaqgwpb2Lw" frameborder="0"></iframe>
+</div>
+    
 We totaled a whopping ten-firesides during the even semester, and we hope to continue this trend in the future. We want to create a culture of knowledge sharing and learning within our community, and we believe that firesides are a great way to achieve this!
 
 ### FOSS Talks 3.0
