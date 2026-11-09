@@ -48,15 +48,23 @@ footer img {
     border-radius: 0 !important;
 }
 
-/* @font-face {
+@font-face {
     font-family: AzeretMono;
     src: url(/static/fonts/Mono/AzeretMono.ttf);
+    font-style: normal;
+}
+
+@font-face {
+    font-family: AzeretMono;
+    src: url(/static/fonts/Mono/AzeretMonoItalic.ttf);
+    font-style: italic;
 }
 
 @font-face {
     font-family: AzeretMonoItalic;
     src: url(/static/fonts/Mono/AzeretMonoItalic.ttf);
-} */
+    font-style: italic;
+}
 
 @font-face {
     font-family: Inter;
@@ -224,6 +232,11 @@ ul {
 b,
 strong {
     font-weight: 500;
+}
+
+em,
+i {
+    font-style: italic;
 }
 
 table {
